@@ -22,3 +22,5 @@ If I expand the project then I could add the following:
 + finish the sidebar to include buttons
 + add a dropdown menu to select one of the precreated puzzles
 
+## Example Output
+![alt text](https://github.com/CameronDeweerd/sudoku-solver-backtracking/blob/master/Sudoku%20Solver.JPG?raw=true)
